@@ -9,6 +9,6 @@ matplotlib-base==3.3.2
 numpy==1.19.5
 numpy-base==1.19.2
 numpydoc==1.1.0
-pandas=1.2.1
+pandas==1.2.1
 pickleshare==0.7.5
 seaborn==0.11.1
