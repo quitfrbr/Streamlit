@@ -1,14 +1,8 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
+numpy==1.15
+SciPy == 1.0
 scikit-learn==0.18
 #json5==0.9.5=py_0
 #jsonschema==3.2.0=py_2
 matplotlib==3.3.2
-matplotlib-base==3.3.2
-numpy==1.19.5
-numpy-base==1.19.2
-numpydoc==1.1.0
-pandas==1.2.1
-pickleshare==0.7.5
+pandas==1.0.5
 seaborn==0.11.1
