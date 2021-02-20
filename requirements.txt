@@ -1,8 +1,10 @@
-numpy==1.15
-SciPy == 1.0
-scikit-learn==0.18
-#json5==0.9.5=py_0
-#jsonschema==3.2.0=py_2
-matplotlib==3.3.2
-pandas==1.0.5
+#numpy>=1.8
+#SciPy >= 0.19.0
+numpy>= 1.8.2
+pandas>=0.21.0
+scipy>=1.0.0
+scikit-learn>=0.19.2
+matplotlib==3.3.4
+#pandas==1.0.5
 seaborn==0.11.1
+#matplotlib==3.2.2
